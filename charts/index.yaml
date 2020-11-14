@@ -16,6 +16,6 @@ entries:
     sources:
     - https://pages.git.viasat.com/ATG/charts
     urls:
-    - https://0pendev.github.com/charts/opendistro-es-1.11.0.tgz
+    - https://0pendev.github.io/charts/opendistro-es-1.11.0.tgz
     version: 1.11.0
 generated: "2020-11-14T17:47:37.631269097Z"
