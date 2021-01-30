@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   opendistro-es:
   - apiVersion: v1
-    appVersion: 1.11.0
-    created: "2020-11-14T17:47:37.634562585Z"
+    appVersion: 1.12.0
+    created: "2021-01-30T20:03:37.674350671Z"
     description: Open Distro for Elasticsearch
-    digest: 536ca60ce7c8a978ac8ff3e96826e0744aeebf78b79a9351942634926482d18c
+    digest: fa7574cb4d55403c9e3c8cd94b01c42a1bc454e19e82a3d3446df07dd84ca7d8
     kubeVersion: ^1.10.0-0
     maintainers:
     - email: derek.heldt-werle@viasat.com
@@ -16,6 +16,6 @@ entries:
     sources:
     - https://pages.git.viasat.com/ATG/charts
     urls:
-    - https://0pendev.github.io/charts/opendistro-es-1.11.0.tgz
-    version: 1.11.0
-generated: "2020-11-14T17:47:37.631269097Z"
+    - https://0pendev.github.io/charts/opendistro-es-1.12.0.tgz
+    version: 1.12.0
+generated: "2021-01-30T20:03:37.670934114Z"
