@@ -3,7 +3,7 @@ entries:
   opendistro-es:
   - apiVersion: v1
     appVersion: 1.12.0
-    created: "2021-01-30T20:03:37.674350671Z"
+    created: "2021-02-06T21:22:29.097782999Z"
     description: Open Distro for Elasticsearch
     digest: fa7574cb4d55403c9e3c8cd94b01c42a1bc454e19e82a3d3446df07dd84ca7d8
     kubeVersion: ^1.10.0-0
@@ -18,4 +18,15 @@ entries:
     urls:
     - https://0pendev.github.io/charts/opendistro-es-1.12.0.tgz
     version: 1.12.0
-generated: "2021-01-30T20:03:37.670934114Z"
+  skube-canary:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-02-06T21:22:29.098082815Z"
+    description: A canary easily deployable on Kubernetes
+    digest: 60fe552d3a1d34a416847b86299952aa7abd3bd53e9ca55c2fec88426236c170
+    name: skube-canary
+    type: application
+    urls:
+    - https://0pendev.github.io/charts/skube-canary-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-06T21:22:29.092061107Z"
